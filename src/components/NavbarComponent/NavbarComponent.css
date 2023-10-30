@@ -3,7 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.title{
+    display: flex;
+    
+}
 body{
   font-family: sans-serif;
   background: linear-gradient(
@@ -15,13 +18,13 @@ body{
 }
 
 .navbar {
-  
+  margin-top: 20px;
   display: flex;
   justify-content: center; 
   align-items: center; 
   color: white;
   padding: 10px ; 
-  width: 100%;
+  
   
 }
 

@@ -1,7 +1,5 @@
 import "./App.css"
 
-
-import CartWidget from "./components/CartWidget/CartWidget";
 import NavbarComponent from './components/NavbarComponent/NavbarComponent';
 import ItemListCointainer from "./components/ItemListContainer/ItemListContainer";
 
