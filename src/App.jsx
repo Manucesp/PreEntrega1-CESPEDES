@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <NavbarComponent/> 
+      <ItemListCointainer greeting="Bienvenidos a la tienda"/>
       {      }
     </div>
     

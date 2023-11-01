@@ -20,7 +20,8 @@ body{
 .navbar {
   margin-top: 20px;
   display: flex;
-  justify-content: center; 
+  justify-content: end;
+  margin-right: 70px; 
   align-items: center; 
   color: white;
   padding: 10px ; 
@@ -57,12 +58,4 @@ body{
   color: white;
   font-size: 1.5rem;
   font-weight: bold;
-}
-.carrito{
-  
-  font-size: 25px;
-  color: white;
-  display: flex;
-  justify-content: end;
-  align-items: center;
 }
